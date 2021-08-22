@@ -1,0 +1,25 @@
+{
+  "name": "devPleno_palpiteBox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pages/index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "keywords": [],
+  "author": "Laures Ronak",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.3.1",
+    "google-spreadsheet": "^3.1.15",
+    "moment": "^2.29.1",
+    "next": "^11.0.1",
+    "postcss-import": "^14.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "swr": "^0.5.6",
+    "tailwindcss": "^2.2.7"
+  }
+}
